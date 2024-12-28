@@ -46,5 +46,6 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with over 3 years 
 - 📧 Email: [manindra8@gmail.com](mailto:manindra8@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/manindra-bollam](https://www.linkedin.com/in/manindrabollam)
 - 🐦 Twitter: [@manindra_bollam](https://twitter.com/manindra_bollam)
+- 📸 Instagram: [@manindra_bollam](https://instagram.com/manindra_bollam)
 
 Thanks for stopping by! 🚀
