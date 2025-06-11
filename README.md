@@ -12,13 +12,13 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with over 4+ years
 
 ## Skills & Technologies 🛠
 
-- **Languages**: JavaScript (ES6+), TypeScript
+- **Languages**: Python, JavaScript (ES6+), TypeScript
 - **Backend**: Node.js, NestJS
-- **Frontend**: React, Next.js
-- **Databases**: MongoDB, PostgreSQL
+- **Frontend**: React, Next.js, HTML, CSS
+- **Databases**: MongoDB, PostgreSQL, MSSQL, Elastic Search,
 - **Payment Gateway**: Stripe
-- **Version Control**: Git, GitHub
-- **Others**: REST APIs, GraphQL, Docker, CI/CD, Agile Methodologies
+- **Version Control**: Git, GitHub, Gitlab
+- **Others**: REST APIs, Strapi, Docker, CI/CD, Agile Methodologies
 
 ## Work Experience 🧑‍💻
 
