@@ -1,6 +1,6 @@
 # Hi, I'm Manindra Bollam 👨‍💻
 
-Welcome to my GitHub! I'm a passionate **Software Developer** with over 4+ years of experience in building scalable and robust applications. I specialize in **Node.js**, **NestJS**, **React**, **Next.js**, **Typescript**, **MongoDB**, **PostgreSQL**, and **Stripe**, with a love for learning new technologies and improving my craft. 
+Welcome to my GitHub! I'm a passionate **Software Developer** with over 5+ years of experience in building scalable and robust applications. I specialize in **Node.js**, **NestJS**, **React**, **Next.js**, **Typescript**, **MongoDB**, **PostgreSQL**, and **Stripe**, with a love for learning new technologies and improving my craft. 
 
 ## What I Do 🔧
 
