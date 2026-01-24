@@ -22,12 +22,11 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with over 5+ years
 
 ## Work Experience 🧑‍💻
 
-### Full Stack Developer | 4+ years experience
+### Full Stack Developer | 5+ years experience
 - Developed and maintained web applications that serve thousands of users daily.
 - Built RESTful APIs and integrated with third-party services like Stripe for payment processing.
 - Worked closely with product and design teams to bring features to life with **React** and **Next.js**.
 - Optimized database performance, ensuring fast and efficient queries on **MongoDB** and **PostgreSQL**.
-- Participated in code reviews, improving overall code quality and team collaboration.
 
 ## Projects 🚧
 
